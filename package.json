@@ -1,0 +1,9 @@
+{
+	"name": "os-browserify",
+	"version": "0.1.0",
+	"author": "Drew Young",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/drewyoung1/os-browserify.git"
+	}
+}

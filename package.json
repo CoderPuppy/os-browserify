@@ -2,6 +2,7 @@
 	"name": "os-browserify",
 	"version": "0.1.1",
 	"author": "Drew Young",
+	"license": "MIT",
 	"main": "main.js",
 	"browser": "browser.js",
 	"repository": {

@@ -1,5 +1,4 @@
-os-browserify
-=============
+# os-browserify
 
 The [os](https://nodejs.org/api/os.html) module from node.js, but for browsers.
 
